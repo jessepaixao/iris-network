@@ -1,12 +1,9 @@
-# IRIS public website — GitHub Pages package
+# IRIS
 
-This folder contains the static website prepared for GitHub Pages. The site is public once Pages is enabled.
+Global Network for Resilient, Innovative and Sustainable Infrastructure.
 
-## Publish
+This repository contains the public IRIS website, published with GitHub Pages.
 
-1. Create a **public** GitHub repository (suggested name: `iris-network`).
-2. Upload the contents of this folder to the repository root, including `.nojekyll` and the `pt` and `assets` folders.
-3. In **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/(root)`, then save.
-4. GitHub will show the Pages URL in the same settings screen after deployment finishes.
-
-The English home page is `index.html`; Portuguese pages are under `pt/`.
+- Website: https://jessepaixao.github.io/iris-network/
+- English pages: repository root
+- Portuguese pages: `pt/`
