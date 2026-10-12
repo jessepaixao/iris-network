@@ -1,0 +1,226 @@
+[
+  {
+    "continent": "South America",
+    "country": "Brazil",
+    "name": "Flávio de Andrade Silva",
+    "institution": "PUC-Rio",
+    "orcid": "0000-0002-0160-7619"
+  },
+  {
+    "continent": "South America",
+    "country": "Brazil",
+    "name": "Daniel Cardoso",
+    "institution": "PUC-Rio",
+    "orcid": "0000-0002-8171-7956"
+  },
+  {
+    "continent": "South America",
+    "country": "Brazil",
+    "name": "Jessé Paixão",
+    "institution": "PUC-Rio",
+    "orcid": "0000-0002-2035-0986"
+  },
+  {
+    "continent": "South America",
+    "country": "Brazil",
+    "name": "Bruna Lopes",
+    "institution": "PUC-Rio",
+    "orcid": "0000-0001-7669-7236"
+  },
+  {
+    "continent": "South America",
+    "country": "Brazil",
+    "name": "Samuel da Silva",
+    "institution": "UNESP",
+    "orcid": "0000-0001-6430-3746"
+  },
+  {
+    "continent": "South America",
+    "country": "Brazil",
+    "name": "Alex Dantas",
+    "institution": "UNESP",
+    "orcid": "0000-0003-0424-4080"
+  },
+  {
+    "continent": "South America",
+    "country": "Brazil",
+    "name": "Nádia Forti",
+    "institution": "PUC-Campinas",
+    "orcid": "0000-0001-9994-5546"
+  },
+  {
+    "continent": "South America",
+    "country": "Brazil",
+    "name": "Maurício Ferreira",
+    "institution": "UFPA",
+    "orcid": "0000-0001-8905-9479"
+  },
+  {
+    "continent": "South America",
+    "country": "Brazil",
+    "name": "Luiz Mororó",
+    "institution": "UFC",
+    "orcid": "0000-0003-2247-2511"
+  },
+  {
+    "continent": "South America",
+    "country": "Brazil",
+    "name": "João de Sousa Júnior",
+    "institution": "UFC",
+    "orcid": "0000-0002-0485-0788"
+  },
+  {
+    "continent": "South America",
+    "country": "Brazil",
+    "name": "Evandro Parente Junior",
+    "institution": "UFC",
+    "orcid": "0000-0003-0219-1376"
+  },
+  {
+    "continent": "South America",
+    "country": "Brazil",
+    "name": "Cláudio Basquerotto",
+    "institution": "UNIFESSPA",
+    "orcid": "0000-0001-8289-5845"
+  },
+  {
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "name": "Barzin Mobasher",
+    "institution": "American University of Sharjah",
+    "orcid": "0000-0002-7580-2855"
+  },
+  {
+    "continent": "North America",
+    "country": "United States",
+    "name": "Kent Harries",
+    "institution": "University of Pittsburgh",
+    "orcid": "0000-0002-8421-2523"
+  },
+  {
+    "continent": "North America",
+    "country": "Canada",
+    "name": "Martin Noël",
+    "institution": "University of Ottawa",
+    "orcid": "0000-0003-4431-7715"
+  },
+  {
+    "continent": "Europe",
+    "country": "Portugal",
+    "name": "Dragos Ionut Moldovan",
+    "institution": "Universidade Lusófona",
+    "orcid": "0000-0002-9168-6903"
+  },
+  {
+    "continent": "Europe",
+    "country": "Portugal",
+    "name": "João Ramôa Correia",
+    "institution": "IST-Lisboa",
+    "orcid": "0000-0001-5485-136X"
+  },
+  {
+    "continent": "Europe",
+    "country": "Germany",
+    "name": "Viktor Mechtcherine",
+    "institution": "TU Dresden",
+    "orcid": "0000-0002-4685-7064"
+  },
+  {
+    "continent": "Europe",
+    "country": "Italy",
+    "name": "Luciano Ombres",
+    "institution": "University of Calabria",
+    "orcid": "0000-0003-1520-8018"
+  },
+  {
+    "continent": "Europe",
+    "country": "Italy",
+    "name": "Pietro Mazzuca",
+    "institution": "University of Calabria",
+    "orcid": "0000-0003-4029-6833"
+  },
+  {
+    "continent": "Europe",
+    "country": "Italy",
+    "name": "Liberato Ferrara",
+    "institution": "Politecnico di Milano",
+    "orcid": "0000-0002-6826-9917"
+  },
+  {
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "name": "Farid Abed",
+    "institution": "American University of Sharjah",
+    "orcid": "0000-0002-9202-694X"
+  },
+  {
+    "continent": "Asia",
+    "country": "China",
+    "name": "TianQiao Liu",
+    "institution": "Beijing University of Technology",
+    "orcid": "0000-0001-7997-3232"
+  },
+  {
+    "continent": "Europe",
+    "country": "Netherlands",
+    "name": "Mohammad Fotouhi",
+    "institution": "Delft University of Technology",
+    "orcid": "0000-0002-5956-4703"
+  },
+  {
+    "continent": "Europe",
+    "country": "Netherlands",
+    "name": "Henk M. Jonkers",
+    "institution": "Delft University of Technology",
+    "orcid": "0000-0003-1156-7195"
+  },
+  {
+    "continent": "Europe",
+    "country": "France",
+    "name": "Rafael Teloli",
+    "institution": "ENSMM",
+    "orcid": "0000-0002-7658-5514"
+  },
+  {
+    "continent": "Asia",
+    "country": "South Korea",
+    "name": "Gyuhae Park",
+    "institution": "Chonnam National University",
+    "orcid": "0000-0003-2396-7209"
+  },
+  {
+    "continent": "South America",
+    "country": "Uruguay",
+    "name": "Luis Segura Castillo",
+    "institution": "Universidad de la República",
+    "orcid": "0000-0002-9412-0542"
+  },
+  {
+    "continent": "Europe",
+    "country": "Germany",
+    "name": "Kunka Danays",
+    "institution": "Karlsruhe Institute of Technology",
+    "orcid": "0000-0001-6500-7201"
+  },
+  {
+    "continent": "South America",
+    "country": "Ecuador",
+    "name": "Eva Lantsoght",
+    "institution": "Universidad San Francisco de Quito",
+    "orcid": "0000-0003-4548-7644"
+  },
+  {
+    "continent": "Europe",
+    "country": "Germany",
+    "name": "Edeltraud Guenther",
+    "institution": "United Nations University",
+    "orcid": "0000-0001-6968-9238"
+  },
+  {
+    "continent": "Europe",
+    "country": "Cyprus",
+    "name": "Joao Mendes",
+    "institution": "Neapolis University Pafos",
+    "orcid": "0000-0001-7535-8750"
+  }
+]
