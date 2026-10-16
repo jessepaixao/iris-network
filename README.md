@@ -2,8 +2,6 @@
 
 Global Network for Resilient, Innovative and Sustainable Infrastructure.
 
-This repository contains the public IRIS website, published with GitHub Pages.
+Website files for the IRIS research network. The default pages are in Portuguese; English pages are available under `en/`.
 
-- Website: https://jessepaixao.github.io/iris-network/
-- English pages: repository root
-- Portuguese pages: `pt/`
+- GitHub Pages: https://jessepaixao.github.io/iris-network/
